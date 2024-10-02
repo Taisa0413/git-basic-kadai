@@ -1,0 +1,12 @@
+PS C:\Users\fizza\OneDrive\ドキュメント\git_challenge> git log
+commit d12739a4d9e228ea9bf48fb70cdda4c50dbd919f (HEAD -> main)
+Author: Taisa0413 <asajin1013@gmail.com>
+Date:   Wed Oct 2 23:22:14 2024 +0900
+
+    日本語訳を追加
+
+commit 8e6c10d6c58e05d012fd3dba2966d13f484c8bc6
+Author: Taisa0413 <asajin1013@gmail.com>
+Date:   Wed Oct 2 23:16:43 2024 +0900
+
+    hello_world.txtを追加

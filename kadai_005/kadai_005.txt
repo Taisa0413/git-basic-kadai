@@ -3,28 +3,23 @@ Initialized empty Git repository in C:/Users/fizza/OneDrive/ドキュメント/g
 PS C:\Users\fizza\OneDrive\ドキュメント\git_challenge> git add hello_world.txt
 PS C:\Users\fizza\OneDrive\ドキュメント\git_challenge> git commit -m "hello_world.txtを
 追加"
-[main (root-commit) 70b31a6] hello_world.txtを追加
+[main (root-commit) f13d742] hello_world.txtを追加
  1 file changed, 0 insertions(+), 0 deletions(-)
  create mode 100644 hello_world.txt
 PS C:\Users\fizza\OneDrive\ドキュメント\git_challenge> git add hello_world.txt
-PS C:\Users\fizza\OneDrive\ドキュメント\git_challenge> git commit -m "hello,worldを追記"
-[main 2adb7e1] hello,worldを追記
- 1 file changed, 0 insertions(+), 0 deletions(-)
-PS C:\Users\fizza\OneDrive\ドキュメント\git_challenge> git add hello_world.txt
 PS C:\Users\fizza\OneDrive\ドキュメント\git_challenge> git commit -m "日本語訳を追記"
-[main e9a01bc] 日本語訳を追記
+[main f229839] 日本語訳を追記
  1 file changed, 0 insertions(+), 0 deletions(-)
 PS C:\Users\fizza\OneDrive\ドキュメント\git_challenge> git log
-commit e9a01bc058d7f239a6a590563895c0e35751223a (HEAD -> main)
+commit f229839b7d211fa067d4be8f177a15e444b1ec6d (HEAD -> main)
 Author: Taisa0413 <asajin1013@gmail.com>
-Date:   Thu Oct 3 23:57:29 2024 +0900
+Date:   Fri Oct 4 11:51:19 2024 +0900
 
     日本語訳を追記
 
-commit 2adb7e1278fca504fa68aeb582d7fa2804b1383a
+commit f13d7422ef4ed14b5c177f0742bf5f000f3dcbab
 Author: Taisa0413 <asajin1013@gmail.com>
-Date:   Thu Oct 3 23:55:46 2024 +0900
+Date:   Fri Oct 4 11:49:26 2024 +0900
 
-    hello,worldを追記
-
-:
+    hello_world.txtを追加
+PS C:\Users\fizza\OneDrive\ドキュメント\git_challenge> 
